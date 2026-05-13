@@ -1,0 +1,6 @@
+{
+  "name": "PriceCheck AI",
+  "description": "Smart product price estimator to help you determine if you're getting a fair deal based on current market data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
